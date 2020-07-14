@@ -301,9 +301,9 @@ PODS:
     - Yoga (~> 1.14)
 
 DEPENDENCIES:
-  - DoubleConversion (from `/Users/mrgaogang/Documents/Github/RNJsBridgeiOS/node_modules/react-native/third-party-podspecs/DoubleConversion.podspec`)
-  - FBLazyVector (from `/Users/mrgaogang/Documents/Github/RNJsBridgeiOS/node_modules/react-native/Libraries/FBLazyVector`)
-  - FBReactNativeSpec (from `/Users/mrgaogang/Documents/Github/RNJsBridgeiOS/node_modules/react-native/Libraries/FBReactNativeSpec`)
+  - DoubleConversion (from `/Users/alexganggao/Documents/Github/RNJsBridgeiOS/node_modules/react-native/third-party-podspecs/DoubleConversion.podspec`)
+  - FBLazyVector (from `/Users/alexganggao/Documents/Github/RNJsBridgeiOS/node_modules/react-native/Libraries/FBLazyVector`)
+  - FBReactNativeSpec (from `/Users/alexganggao/Documents/Github/RNJsBridgeiOS/node_modules/react-native/Libraries/FBReactNativeSpec`)
   - Flipper (~> 0.41.1)
   - Flipper-DoubleConversion (= 1.1.7)
   - Flipper-Folly (~> 2.2)
@@ -323,31 +323,31 @@ DEPENDENCIES:
   - FlipperKit/FlipperKitReactPlugin (~> 0.41.1)
   - FlipperKit/FlipperKitUserDefaultsPlugin (~> 0.41.1)
   - FlipperKit/SKIOSNetworkPlugin (~> 0.41.1)
-  - Folly (from `/Users/mrgaogang/Documents/Github/RNJsBridgeiOS/node_modules/react-native/third-party-podspecs/Folly.podspec`)
-  - glog (from `/Users/mrgaogang/Documents/Github/RNJsBridgeiOS/node_modules/react-native/third-party-podspecs/glog.podspec`)
-  - RCTRequired (from `/Users/mrgaogang/Documents/Github/RNJsBridgeiOS/node_modules/react-native/Libraries/RCTRequired`)
-  - RCTTypeSafety (from `/Users/mrgaogang/Documents/Github/RNJsBridgeiOS/node_modules/react-native/Libraries/TypeSafety`)
-  - React (from `/Users/mrgaogang/Documents/Github/RNJsBridgeiOS/node_modules/react-native/`)
-  - React-callinvoker (from `/Users/mrgaogang/Documents/Github/RNJsBridgeiOS/node_modules/react-native/ReactCommon/callinvoker`)
-  - React-Core (from `/Users/mrgaogang/Documents/Github/RNJsBridgeiOS/node_modules/react-native/`)
-  - React-Core/DevSupport (from `/Users/mrgaogang/Documents/Github/RNJsBridgeiOS/node_modules/react-native/`)
-  - React-Core/RCTWebSocket (from `/Users/mrgaogang/Documents/Github/RNJsBridgeiOS/node_modules/react-native/`)
-  - React-CoreModules (from `/Users/mrgaogang/Documents/Github/RNJsBridgeiOS/node_modules/react-native/React/CoreModules`)
-  - React-cxxreact (from `/Users/mrgaogang/Documents/Github/RNJsBridgeiOS/node_modules/react-native/ReactCommon/cxxreact`)
-  - React-jsi (from `/Users/mrgaogang/Documents/Github/RNJsBridgeiOS/node_modules/react-native/ReactCommon/jsi`)
-  - React-jsiexecutor (from `/Users/mrgaogang/Documents/Github/RNJsBridgeiOS/node_modules/react-native/ReactCommon/jsiexecutor`)
-  - React-jsinspector (from `/Users/mrgaogang/Documents/Github/RNJsBridgeiOS/node_modules/react-native/ReactCommon/jsinspector`)
-  - React-RCTActionSheet (from `/Users/mrgaogang/Documents/Github/RNJsBridgeiOS/node_modules/react-native/Libraries/ActionSheetIOS`)
-  - React-RCTAnimation (from `/Users/mrgaogang/Documents/Github/RNJsBridgeiOS/node_modules/react-native/Libraries/NativeAnimation`)
-  - React-RCTBlob (from `/Users/mrgaogang/Documents/Github/RNJsBridgeiOS/node_modules/react-native/Libraries/Blob`)
-  - React-RCTImage (from `/Users/mrgaogang/Documents/Github/RNJsBridgeiOS/node_modules/react-native/Libraries/Image`)
-  - React-RCTLinking (from `/Users/mrgaogang/Documents/Github/RNJsBridgeiOS/node_modules/react-native/Libraries/LinkingIOS`)
-  - React-RCTNetwork (from `/Users/mrgaogang/Documents/Github/RNJsBridgeiOS/node_modules/react-native/Libraries/Network`)
-  - React-RCTSettings (from `/Users/mrgaogang/Documents/Github/RNJsBridgeiOS/node_modules/react-native/Libraries/Settings`)
-  - React-RCTText (from `/Users/mrgaogang/Documents/Github/RNJsBridgeiOS/node_modules/react-native/Libraries/Text`)
-  - React-RCTVibration (from `/Users/mrgaogang/Documents/Github/RNJsBridgeiOS/node_modules/react-native/Libraries/Vibration`)
-  - ReactCommon/turbomodule/core (from `/Users/mrgaogang/Documents/Github/RNJsBridgeiOS/node_modules/react-native/ReactCommon`)
-  - Yoga (from `/Users/mrgaogang/Documents/Github/RNJsBridgeiOS/node_modules/react-native/ReactCommon/yoga`)
+  - Folly (from `/Users/alexganggao/Documents/Github/RNJsBridgeiOS/node_modules/react-native/third-party-podspecs/Folly.podspec`)
+  - glog (from `/Users/alexganggao/Documents/Github/RNJsBridgeiOS/node_modules/react-native/third-party-podspecs/glog.podspec`)
+  - RCTRequired (from `/Users/alexganggao/Documents/Github/RNJsBridgeiOS/node_modules/react-native/Libraries/RCTRequired`)
+  - RCTTypeSafety (from `/Users/alexganggao/Documents/Github/RNJsBridgeiOS/node_modules/react-native/Libraries/TypeSafety`)
+  - React (from `/Users/alexganggao/Documents/Github/RNJsBridgeiOS/node_modules/react-native/`)
+  - React-callinvoker (from `/Users/alexganggao/Documents/Github/RNJsBridgeiOS/node_modules/react-native/ReactCommon/callinvoker`)
+  - React-Core (from `/Users/alexganggao/Documents/Github/RNJsBridgeiOS/node_modules/react-native/`)
+  - React-Core/DevSupport (from `/Users/alexganggao/Documents/Github/RNJsBridgeiOS/node_modules/react-native/`)
+  - React-Core/RCTWebSocket (from `/Users/alexganggao/Documents/Github/RNJsBridgeiOS/node_modules/react-native/`)
+  - React-CoreModules (from `/Users/alexganggao/Documents/Github/RNJsBridgeiOS/node_modules/react-native/React/CoreModules`)
+  - React-cxxreact (from `/Users/alexganggao/Documents/Github/RNJsBridgeiOS/node_modules/react-native/ReactCommon/cxxreact`)
+  - React-jsi (from `/Users/alexganggao/Documents/Github/RNJsBridgeiOS/node_modules/react-native/ReactCommon/jsi`)
+  - React-jsiexecutor (from `/Users/alexganggao/Documents/Github/RNJsBridgeiOS/node_modules/react-native/ReactCommon/jsiexecutor`)
+  - React-jsinspector (from `/Users/alexganggao/Documents/Github/RNJsBridgeiOS/node_modules/react-native/ReactCommon/jsinspector`)
+  - React-RCTActionSheet (from `/Users/alexganggao/Documents/Github/RNJsBridgeiOS/node_modules/react-native/Libraries/ActionSheetIOS`)
+  - React-RCTAnimation (from `/Users/alexganggao/Documents/Github/RNJsBridgeiOS/node_modules/react-native/Libraries/NativeAnimation`)
+  - React-RCTBlob (from `/Users/alexganggao/Documents/Github/RNJsBridgeiOS/node_modules/react-native/Libraries/Blob`)
+  - React-RCTImage (from `/Users/alexganggao/Documents/Github/RNJsBridgeiOS/node_modules/react-native/Libraries/Image`)
+  - React-RCTLinking (from `/Users/alexganggao/Documents/Github/RNJsBridgeiOS/node_modules/react-native/Libraries/LinkingIOS`)
+  - React-RCTNetwork (from `/Users/alexganggao/Documents/Github/RNJsBridgeiOS/node_modules/react-native/Libraries/Network`)
+  - React-RCTSettings (from `/Users/alexganggao/Documents/Github/RNJsBridgeiOS/node_modules/react-native/Libraries/Settings`)
+  - React-RCTText (from `/Users/alexganggao/Documents/Github/RNJsBridgeiOS/node_modules/react-native/Libraries/Text`)
+  - React-RCTVibration (from `/Users/alexganggao/Documents/Github/RNJsBridgeiOS/node_modules/react-native/Libraries/Vibration`)
+  - ReactCommon/turbomodule/core (from `/Users/alexganggao/Documents/Github/RNJsBridgeiOS/node_modules/react-native/ReactCommon`)
+  - Yoga (from `/Users/alexganggao/Documents/Github/RNJsBridgeiOS/node_modules/react-native/ReactCommon/yoga`)
 
 SPEC REPOS:
   trunk:
@@ -366,57 +366,57 @@ SPEC REPOS:
 
 EXTERNAL SOURCES:
   DoubleConversion:
-    :podspec: "/Users/mrgaogang/Documents/Github/RNJsBridgeiOS/node_modules/react-native/third-party-podspecs/DoubleConversion.podspec"
+    :podspec: "/Users/alexganggao/Documents/Github/RNJsBridgeiOS/node_modules/react-native/third-party-podspecs/DoubleConversion.podspec"
   FBLazyVector:
-    :path: "/Users/mrgaogang/Documents/Github/RNJsBridgeiOS/node_modules/react-native/Libraries/FBLazyVector"
+    :path: "/Users/alexganggao/Documents/Github/RNJsBridgeiOS/node_modules/react-native/Libraries/FBLazyVector"
   FBReactNativeSpec:
-    :path: "/Users/mrgaogang/Documents/Github/RNJsBridgeiOS/node_modules/react-native/Libraries/FBReactNativeSpec"
+    :path: "/Users/alexganggao/Documents/Github/RNJsBridgeiOS/node_modules/react-native/Libraries/FBReactNativeSpec"
   Folly:
-    :podspec: "/Users/mrgaogang/Documents/Github/RNJsBridgeiOS/node_modules/react-native/third-party-podspecs/Folly.podspec"
+    :podspec: "/Users/alexganggao/Documents/Github/RNJsBridgeiOS/node_modules/react-native/third-party-podspecs/Folly.podspec"
   glog:
-    :podspec: "/Users/mrgaogang/Documents/Github/RNJsBridgeiOS/node_modules/react-native/third-party-podspecs/glog.podspec"
+    :podspec: "/Users/alexganggao/Documents/Github/RNJsBridgeiOS/node_modules/react-native/third-party-podspecs/glog.podspec"
   RCTRequired:
-    :path: "/Users/mrgaogang/Documents/Github/RNJsBridgeiOS/node_modules/react-native/Libraries/RCTRequired"
+    :path: "/Users/alexganggao/Documents/Github/RNJsBridgeiOS/node_modules/react-native/Libraries/RCTRequired"
   RCTTypeSafety:
-    :path: "/Users/mrgaogang/Documents/Github/RNJsBridgeiOS/node_modules/react-native/Libraries/TypeSafety"
+    :path: "/Users/alexganggao/Documents/Github/RNJsBridgeiOS/node_modules/react-native/Libraries/TypeSafety"
   React:
-    :path: "/Users/mrgaogang/Documents/Github/RNJsBridgeiOS/node_modules/react-native/"
+    :path: "/Users/alexganggao/Documents/Github/RNJsBridgeiOS/node_modules/react-native/"
   React-callinvoker:
-    :path: "/Users/mrgaogang/Documents/Github/RNJsBridgeiOS/node_modules/react-native/ReactCommon/callinvoker"
+    :path: "/Users/alexganggao/Documents/Github/RNJsBridgeiOS/node_modules/react-native/ReactCommon/callinvoker"
   React-Core:
-    :path: "/Users/mrgaogang/Documents/Github/RNJsBridgeiOS/node_modules/react-native/"
+    :path: "/Users/alexganggao/Documents/Github/RNJsBridgeiOS/node_modules/react-native/"
   React-CoreModules:
-    :path: "/Users/mrgaogang/Documents/Github/RNJsBridgeiOS/node_modules/react-native/React/CoreModules"
+    :path: "/Users/alexganggao/Documents/Github/RNJsBridgeiOS/node_modules/react-native/React/CoreModules"
   React-cxxreact:
-    :path: "/Users/mrgaogang/Documents/Github/RNJsBridgeiOS/node_modules/react-native/ReactCommon/cxxreact"
+    :path: "/Users/alexganggao/Documents/Github/RNJsBridgeiOS/node_modules/react-native/ReactCommon/cxxreact"
   React-jsi:
-    :path: "/Users/mrgaogang/Documents/Github/RNJsBridgeiOS/node_modules/react-native/ReactCommon/jsi"
+    :path: "/Users/alexganggao/Documents/Github/RNJsBridgeiOS/node_modules/react-native/ReactCommon/jsi"
   React-jsiexecutor:
-    :path: "/Users/mrgaogang/Documents/Github/RNJsBridgeiOS/node_modules/react-native/ReactCommon/jsiexecutor"
+    :path: "/Users/alexganggao/Documents/Github/RNJsBridgeiOS/node_modules/react-native/ReactCommon/jsiexecutor"
   React-jsinspector:
-    :path: "/Users/mrgaogang/Documents/Github/RNJsBridgeiOS/node_modules/react-native/ReactCommon/jsinspector"
+    :path: "/Users/alexganggao/Documents/Github/RNJsBridgeiOS/node_modules/react-native/ReactCommon/jsinspector"
   React-RCTActionSheet:
-    :path: "/Users/mrgaogang/Documents/Github/RNJsBridgeiOS/node_modules/react-native/Libraries/ActionSheetIOS"
+    :path: "/Users/alexganggao/Documents/Github/RNJsBridgeiOS/node_modules/react-native/Libraries/ActionSheetIOS"
   React-RCTAnimation:
-    :path: "/Users/mrgaogang/Documents/Github/RNJsBridgeiOS/node_modules/react-native/Libraries/NativeAnimation"
+    :path: "/Users/alexganggao/Documents/Github/RNJsBridgeiOS/node_modules/react-native/Libraries/NativeAnimation"
   React-RCTBlob:
-    :path: "/Users/mrgaogang/Documents/Github/RNJsBridgeiOS/node_modules/react-native/Libraries/Blob"
+    :path: "/Users/alexganggao/Documents/Github/RNJsBridgeiOS/node_modules/react-native/Libraries/Blob"
   React-RCTImage:
-    :path: "/Users/mrgaogang/Documents/Github/RNJsBridgeiOS/node_modules/react-native/Libraries/Image"
+    :path: "/Users/alexganggao/Documents/Github/RNJsBridgeiOS/node_modules/react-native/Libraries/Image"
   React-RCTLinking:
-    :path: "/Users/mrgaogang/Documents/Github/RNJsBridgeiOS/node_modules/react-native/Libraries/LinkingIOS"
+    :path: "/Users/alexganggao/Documents/Github/RNJsBridgeiOS/node_modules/react-native/Libraries/LinkingIOS"
   React-RCTNetwork:
-    :path: "/Users/mrgaogang/Documents/Github/RNJsBridgeiOS/node_modules/react-native/Libraries/Network"
+    :path: "/Users/alexganggao/Documents/Github/RNJsBridgeiOS/node_modules/react-native/Libraries/Network"
   React-RCTSettings:
-    :path: "/Users/mrgaogang/Documents/Github/RNJsBridgeiOS/node_modules/react-native/Libraries/Settings"
+    :path: "/Users/alexganggao/Documents/Github/RNJsBridgeiOS/node_modules/react-native/Libraries/Settings"
   React-RCTText:
-    :path: "/Users/mrgaogang/Documents/Github/RNJsBridgeiOS/node_modules/react-native/Libraries/Text"
+    :path: "/Users/alexganggao/Documents/Github/RNJsBridgeiOS/node_modules/react-native/Libraries/Text"
   React-RCTVibration:
-    :path: "/Users/mrgaogang/Documents/Github/RNJsBridgeiOS/node_modules/react-native/Libraries/Vibration"
+    :path: "/Users/alexganggao/Documents/Github/RNJsBridgeiOS/node_modules/react-native/Libraries/Vibration"
   ReactCommon:
-    :path: "/Users/mrgaogang/Documents/Github/RNJsBridgeiOS/node_modules/react-native/ReactCommon"
+    :path: "/Users/alexganggao/Documents/Github/RNJsBridgeiOS/node_modules/react-native/ReactCommon"
   Yoga:
-    :path: "/Users/mrgaogang/Documents/Github/RNJsBridgeiOS/node_modules/react-native/ReactCommon/yoga"
+    :path: "/Users/alexganggao/Documents/Github/RNJsBridgeiOS/node_modules/react-native/ReactCommon/yoga"
 
 SPEC CHECKSUMS:
   boost-for-react-native: 39c7adb57c4e60d6c5479dd8623128eb5b3f0f2c
