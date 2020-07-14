@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:/Users/mrgaogang/Documents/Github/RNJsBridgeiOS/ios/RNJSBridgeiOS.xcodeproj">
+      location = "group:/Users/alexganggao/Documents/Github/RNJsBridgeiOS/ios/RNJSBridgeiOS.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Pods/Pods.xcodeproj">

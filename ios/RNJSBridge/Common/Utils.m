@@ -2,7 +2,7 @@
 //  Utils.m
 //  RNJsBridgeiOS
 //
-//  Created by mrgaogang on 2020/7/14.
+//  Created by alexganggao on 2020/7/14.
 //
 
 #import "Utils.h"
