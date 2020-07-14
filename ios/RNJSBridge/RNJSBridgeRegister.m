@@ -2,7 +2,7 @@
 //  RNJSBridgeRegister.m
 //  RNJsBridgeiOS
 //
-//  Created by alexganggao on 2020/7/14.
+//  Created by mrgaogang on 2020/7/14.
 //
 
 #import "RNJSBridgeRegister.h"
