@@ -29,7 +29,7 @@ jsbridge://moduleName/methodName?params=value1&params2&value2
 
 - 如果有需要回调，可以在方法中调用`evaluateJSCallback`执行回调
 
-上面讲述可能比较晦涩，下面拿一个具体的例子讲述; 假如我们要使用
+上面讲述可能比较晦涩，下面拿一个具体的例子讲述; 假如我们要在`react-native`端使用
 
 ```js
 // 第一个参数app为模块名称,第二个参数为方法名称
