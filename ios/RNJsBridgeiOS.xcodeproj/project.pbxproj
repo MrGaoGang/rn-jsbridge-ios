@@ -223,19 +223,19 @@
 			path = Pods;
 			sourceTree = "<group>";
 		};
-		D733B91E24BD744E0038CA70 /* JSBridge */ = {
+		D707E48224BDD94B00949A3D /* JSBridge */ = {
 			isa = PBXGroup;
 			children = (
 				D733B92524BD84090038CA70 /* JSBridgeAppPlugins.h */,
 				D733B92624BD84090038CA70 /* JSBridgeAppPlugins.m */,
 			);
-			name = JSBridge;
-			path = ..;
+			path = JSBridge;
 			sourceTree = "<group>";
 		};
 		D733B93724BDD6080038CA70 /* RNJSBridge */ = {
 			isa = PBXGroup;
 			children = (
+				D707E48224BDD94B00949A3D /* JSBridge */,
 				D733B93824BDD63C0038CA70 /* Common */,
 				D733B93124BD9FA20038CA70 /* JSBridgeFactory.h */,
 				D733B92C24BD954A0038CA70 /* BridgeRequest.m */,
@@ -243,7 +243,6 @@
 				D733B91824BD73C90038CA70 /* RNJSBridgeRegister.m */,
 				D733B91124BD60FD0038CA70 /* ReactJSBridge.h */,
 				D733B91224BD60FD0038CA70 /* ReactJSBridge.m */,
-				D733B91E24BD744E0038CA70 /* JSBridge */,
 				D733B91A24BD742C0038CA70 /* JSBridgeCommonBase.h */,
 				D733B92B24BD954A0038CA70 /* BridgeRequest.h */,
 				D733B91B24BD742C0038CA70 /* JSBridgeCommonBase.m */,
